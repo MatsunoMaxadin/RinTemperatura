@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  Background-color : black;
+  Color: white; 
+  
+  
+}
+
+button{
+  background-color: purple;
+  color: light-gray;
+  padding: 10px;
+  border: solid black 2px;
+  border-radius: 20px;
+  height: 50px;
+  width: 50px;
+  
+}
+
+img{
+  width: 100px;
+  height: 100px; 
+}
+
